@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some things memorably considerable in the conditions, life and death of the ever blessed and now eternally happy; Mris. Anne Bovves.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93536</idno>
+            <idno type="STC">Wing S4624</idno>
+            <idno type="STC">Thomason 669.f.4[29]</idno>
+            <idno type="STC">ESTC R210207</idno>
+            <idno type="EEBO-CITATION">99869026</idno>
+            <idno type="PROQUEST">99869026</idno>
+            <idno type="VID">160651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160651)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some things memorably considerable in the conditions, life and death of the ever blessed and now eternally happy; Mris. Anne Bovves.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bowes, Anne --  Early works to 1800.</term>
+               <term>Funeral orations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:160651:1" rendition="simple:additions"/>
+            <head>
+               <hi>Some things memorably conſiderable in the Conditions, Life and Death of the ever bleſſed and now eter<g ref="char:EOLhyphen"/>nally happy; M<hi rend="sup">ris.</hi>
+               </hi> ANNE BOVVES.</head>
+            <p>
+               <seg rend="decorInit">S</seg>He was exceedingly humble and courteous: moſt loving and ſingle-hearted: of gentleſt and harmleſſe converſation: ſincerely obedient to parents: hearty and faithfull in friendſhip: very baſhfull and highly modeſt: never bold even with inwardeſt familiars in any either word or act that ſhe could i<g ref="char:EOLhyphen"/>magine the leaſt wiſe undecent: moſt unfeinedly and readily pliant to the minde and advice of whoſe priviledges ſhe held any relation unto: moſt gratefull, juſt, and remunerable: an enemie from her childhood to Idleneſſe, and ſo beſtowing her time as not the meaneſt, but ſome of her exerciſes made beholding her: moſt ſingularly cleanly of hand and perſon: alwayes touched with others harm, and no leſſe a right ſenſible of their welfare: eminently temperate and abſtinent: full of pitty and endevour of helpfulneſſe: in the utmoſt of her paſſions (if moſt rarely any ſuch were) inſtantly reduceable by whom ſhe had in confidence: far from impatiencie and bitterneſſe of anger: ever moſt ſpeedy in forgetting diſpleaſure: of countenance &amp; comportment moſt mildly expreſſing a right ſeaſoned boſome: womanlike ſoft in ordinary fears, but unto a danger of face and importance moſt maſculine and firm. Thus far is referrable to the excellency and ſweetneſſe of her naturall diſpoſition.</p>
+            <p>For the Graces of God, and her ſpirituall gifts, ſhe was for certain inwardly and ardently moſt religious: ſhe was moſt frequent and aſſiduous in private devotion: moſt conſtant and chearfull in duties of pietie: a ſevere judg of her ſelfe: a dayly weeping and broken-hearted penitent: never ſatisfied enough in the ſtrength of her Faith, meaſure of Repentance, and ſufficience of Charity: ſhe bate a love, to the Houſe, to the Miniſters and the ſervants of God, moſt full of reverence: ſhe never held her ſelf no way ſo bound as wherein ſhe conceived ſome furtherance to Heaven; her heart was ſo fixed a<g ref="char:EOLhyphen"/>bove, as that even her dreams were often full of moſt heavenly inexpreſsible comfort, and it was very ordinary to hear her pray, and moſt joyouſly to ſing whole Pſalms in her ſleep: her laſt ſickneſſe which was unſpeakably full of torment, (by inceſſant ſharpeſt head-ach) and wherein for at leaſt 40. dayes her ſleep was almoſt vvholly taken from her, was ſo al<g ref="char:EOLhyphen"/>layed with patience, that the trouble of it reached not to any leaſt houſhold interruption: and her prayer was continual<g ref="char:EOLhyphen"/>ly, not for the lengthening of life or aſſwagement of pain, but that it would pleaſe God to preſerve her underſtanding that ſhe might ſtil know to praiſe him to the end: never was heart nor tongue more ful of truth, for the ſaving of life, (after her maturing in godlineſſe) would not, I averre it, have coſt her a lie: nothing was of more horrour to her then backbitings and taxation of the abſent: and it was a bad cauſe or worthleſſe perſon that found not a relief from her when properer defence was out of place: it cannot be expreſſed what gladſome confidence ſhe had in the <hi>Mercies</hi> of God, and how ſhe clung with the armes of her ſoul upon her dear <hi>Saviour.</hi>
+            </p>
+            <p>Her care was ſo great to take trouble and ſorrow from the friends about her, that ſhe would never yield to the behavi<g ref="char:EOLhyphen"/>ours of ſickneſſe, but kept her foot to the laſt day. Being with her Brother and his wife invited the night ſevennight be<g ref="char:EOLhyphen"/>fore her death to ſup with a worthy friend but a few ſteps from her own door, hovvever her weakneſſe was utterly extream and manifeſt, her civility and gentleneſſe yet carried her thither: and the next day being Sunday, and that ſhe prepared to Church, but was beſought by a ſervant of truſt about her to have care to her health, vvhich apparently vvas waſted to the laſt; no, ſaith ſhe, ſhall I go but laſt night to the houſe of a friend to a ſupper, and ſhall I forbear this next morning to goe to the houſe of my God to a ſermon? good God forbid it me: and yet her diſabledneſſe was ſo great, that ſhee well neer ſwouned and fell down as ſhe went, but would not for all that be entreated to turn back. The Monday following, her bro<g ref="char:EOLhyphen"/>ther having called ſome friends to a dinner, where was Muſick, ſportings and divers Chriſtmaſſe ſolemnities; no Brother ſaith ſhe (being ſtill requeſted to favour her ſelf, and though her preſence were wiſhed, that ſhe would not yet uneaſefully allow it) notwithſtanding all theſe diſcordances to my preſent caſe, your company ſhall not want of any the regards I can yield to it; it is not the faintneſſe of this body ſhall be able to detain me from doing obſervance, where you ſhew affection, neither (you ſhall ſee) ſhall it be in the power of ſickneſſe to ſullen my behaviour or to make me ſuſpected of neglect with perſonages of ſuch account to you: but through the whole courſe of the day (ſhe ſtill holding out with the beſt fitted ſem<g ref="char:EOLhyphen"/>blances ſhe could, even untill 12 a clock midnight) it was eaſie to perceive both by the ſtollen mooving of her eyes, and of<g ref="char:EOLhyphen"/>ten withall, by the ſtirring of her lips, what other repaſts her heart then fed upon. The third day before it pleaſed God to take her to his mercie, being early the morning in a little faint ſlumber, it ſeemed her that a white ſheet or a large foure ſquare linnen cloath, was let down to her by cords from heaven, the which mooving and paſſing divers times before her eyes, vaniſhed away: do you know ſaith ſhe to her brother, (unto whom and her ſiſter ſhe preſently came down a paire of ſtairs from her chamber, relating to them as aboveſaid) what this ſhould ſignifie? yea ſaith ſhe, ſmiling and nodding her head at him, do you know brother? &amp; ſo rejoycingly ſhe led her ſelf into the magnifying of Gods Mercies. Some friends coming to viſit her not 3 howers before her departure, &amp; beholding her as with pittie of her plight and agony; noe, ſaith ſhe, do not ſo (with an emboldned and raiſed voice ſhe delivered it) I would have you to know that I feare not death, it is long ſince God hath quite dravvn my heart and mind from this world, and with that her ſpeech failed. And it is true, that as ſhe had many years before loſt almoſt al delight and taſt in worldly things, ſo now never fleſh &amp; bloodleſſe feared death, or more comfortably embraced diſſolution. Recovering her ſpeech a little again, ſhe beſtovved it all in moſt holy ejacula<g ref="char:EOLhyphen"/>tions: and as the night before ſhe had in a ſlumber vvith more then an ordinarily clear voice ſung two ſtaves of a Pſalme; awaking with theſe words in her mouth, <hi>Lord now lettest thou thy ſervant depart in peace according to thy word,</hi> ſo the very ſame words about an houre before her paſſing were the laſt that ſhe was heard to utter. When her ſight was gone and all mo<g ref="char:EOLhyphen"/>tion began to fail, there was ſuddenly by divers very ſenſible and diſcreet by-ſtanders a flickering heard againſt the glaſs of the next window to her bed, as if it were the beating of litle wings (nor otherwiſe could it be gheſſed or reſembled) be<g ref="char:EOLhyphen"/>ing yet then within night, when all things were quiet; at which very time, with two weak neeſings and without any ſob or ſhrinking whatever, her ſoul and body took leave untill their joyfull meeting in a bleſſed Reſurrection.</p>
+            <p>This befell unto us the 2. of <hi>January</hi> being a Saturday, in the year of Grace 1640. and in the 41. year of her age<g ref="char:punc">▪</g>
+            </p>
+            <epigraph>
+               <q>
+                  <l>
+                     <hi>Never Fleſhleſſe fear'd to dye,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor Soul fled more cheerefully.</hi>
+                  </l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
